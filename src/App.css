@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+.App{
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.section{
+  width: 100vw;
+  height: 99vh;
+  background-image:  linear-gradient(to top, #d63384, #d63384, #dc3545, #dc3545,#d63384);
+}
+.soculenta{
+  font-size: 34pt;
+  font-weight: 900;
+  color:white;
+  
+}
+.title {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ 
+}
+
+
+
