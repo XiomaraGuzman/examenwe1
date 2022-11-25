@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Header from './componentes/helpers/Header'
-import Main from './componentes/helpers/Main'
+import Main from '../src/componentes/layout/Main'
 import Footer from './componentes/helpers/Footer'
 
 function App() {

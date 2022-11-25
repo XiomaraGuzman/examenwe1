@@ -1,13 +1,12 @@
+
+
 .navbar{
     background-image: url(./componentes/soculenta.jpg);
     background-position: center;
     background-size: contain;
-    height: 10vh;
+    height: 15vh;
     width: 100vw;
     justify-content: space-around;
     align-items: center;
-   
-   
-  
-   
   }
+
